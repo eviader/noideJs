@@ -169,7 +169,7 @@ carrito.delete('/:id/productos/:id_prod', async (req, res) =>{
 app.use('/productos', productos);
 app.use('/carrito', carrito);
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
     console.log(`Server on PORT:${PORT}`) 
 });
