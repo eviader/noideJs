@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "nuevoObj": {
+      "timestamp": "Thu Sep 08 2022 21:51:49 GMT-0300 (hora estándar de Argentina)",
+      "nombre": "pera",
+      "codigo": "p3r4",
+      "precio": "41",
+      "img": "",
+      "stock": 45
+    }
+  },
+  {
+    "id": 2,
+    "nuevoObj": {
+      "timestamp": "Thu Sep 08 2022 21:52:45 GMT-0300 (hora estándar de Argentina)",
+      "nombre": "Manzana",
+      "codigo": "M4N24N4",
+      "precio": "61",
+      "img": "",
+      "stock": 125
+    }
+  },
+  {
+    "id": 3,
+    "nuevoObj": {
+      "timestamp": "Thu Sep 08 2022 21:54:12 GMT-0300 (hora estándar de Argentina)",
+      "nombre": "Tomate",
+      "codigo": "t0m4t3",
+      "precio": "71",
+      "img": "",
+      "stock": 352
+    }
+  },
+  {
+    "id": 4,
+    "nuevoObj": {
+      "timestamp": "Thu Sep 08 2022 21:54:43 GMT-0300 (hora estándar de Argentina)",
+      "nombre": "Tomate",
+      "codigo": "t0m4t3",
+      "precio": "71",
+      "img": "",
+      "stock": 352
+    }
+  },
+  {
+    "id": 5,
+    "nuevoObj": {
+      "timestamp": "Thu Sep 08 2022 22:35:27 GMT-0300 (hora estándar de Argentina)",
+      "nombre": "Pepino",
+      "codigo": "p3p1n0",
+      "precio": "71",
+      "img": "",
+      "stock": 352
+    }
+  }
+]
